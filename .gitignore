@@ -1,0 +1,16 @@
+# 二进制文件
+qqbot
+*.exe
+
+# 配置文件（含敏感信息）
+config.yaml
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
