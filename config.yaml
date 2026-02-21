@@ -1,0 +1,12 @@
+# QQ机器人配置
+# 请在 https://q.qq.com 获取 AppID 和 AppSecret
+appid: "102860245"
+secret: "Eg8b4Y2X3Z6dBjIrR1cDpR4hLzeJzgN5"
+
+# HTTP 服务配置 (webhook 回调)
+host: "0.0.0.0"
+port: 9000
+path: "/qqbot"
+
+# 调试模式
+debug: true
